@@ -166,5 +166,4 @@ http://localhost:5002/api/v1/courses/:courseId
 
 
 
-
-
+<b>More Routes are there inside!</b>
