@@ -23,7 +23,7 @@
     "graceful-fs": "^4.2.4",
     "helmet": "^3.22.0",
     "hpp": "^0.2.3",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "mongoose": "^5.9.9",
     "mongoose-paginate": "^5.0.3",
     "nodemailer": "^6.4.6",
